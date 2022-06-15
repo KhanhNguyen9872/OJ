@@ -1,7 +1,7 @@
 # VNOJ: VNOI Online Judge [![Build Status](https://github.com/VNOI-Admin/OJ/workflows/build/badge.svg)](https://github.com/VNOI-Admin/OJ/actions/) [![AGPL License](https://img.shields.io/badge/license-AGPLv3.0-blue.svg)](http://www.gnu.org/licenses/agpl-3.0) [![Discord link](https://img.shields.io/discord/660930260405190688?color=%237289DA&label=Discord&logo=Discord)](https://discord.com/invite/TDyYVyd)
 
 As a fork of [DMOJ](https://github.com/DMOJ/online-judge), VNOJ serves as the official online judge and programming contests of [VNOI](https://vnoi.info/). 
-
+ 
 
 See it live at [oj.vnoi.info](http://oj.vnoi.info/)!
 
